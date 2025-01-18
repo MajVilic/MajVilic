@@ -11,4 +11,6 @@ My current status:
 I am active in THM:
 
 ![My TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046310)
+[View My TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046310)
+Check out my [TryHackMe Profile](https://tryhackme.com/p/YourProfile).
 
