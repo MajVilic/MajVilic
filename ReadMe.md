@@ -1,5 +1,7 @@
 # Profile 
 
+<span style="font-size: 14px; color: red;">This is red text with 14px font size.</span>
+
 <p color="red"> Hello my name Maj and I am Information Security Engineer. <p color="red">
 
 You are gonna see a lot of my content (code, notes,...) starting to get published!
