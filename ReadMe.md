@@ -1,7 +1,7 @@
 Profile
 =====
 
-🙋‍♂️$\color{blue}\Large\textsf {Hello my name Maj}$
+🙋‍♂️ $\color{blue}\Large\textsf {Hello my name Maj}$
 
 I am Information Security Engineer.
 
