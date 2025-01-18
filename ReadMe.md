@@ -1,5 +1,6 @@
 
-![Uploading Untitled-7--unscreen.gif…]()
+![Untitled-7--unscreen](https://github.com/user-attachments/assets/0f77a6c5-a9d9-4a9e-a913-06eca5310cbf)
+
 
 My name is Maj, I am Information Security Engineer.
 
