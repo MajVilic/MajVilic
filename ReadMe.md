@@ -1,4 +1,5 @@
-![ezgif-4-efadcc9461](https://github.com/user-attachments/assets/30e6cac3-c04c-4cd0-a268-e2ad74443bd3)
+
+![Uploading Untitled-7--unscreen.gif…]()
 
 My name is Maj, I am Information Security Engineer.
 
