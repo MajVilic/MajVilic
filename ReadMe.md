@@ -1,11 +1,9 @@
-# Profile 
-
-SNARE
+Profile
 =====
 
-⚠️ $\color{red}\Large\textsf {Important}$
+🙋‍♂️$\color{blue}\Large\textsf {Hello my name Maj}$
 
-<p color="red"> Hello my name Maj and I am Information Security Engineer. <p color="red">
+I am Information Security Engineer.
 
 You are gonna see a lot of my content (code, notes,...) starting to get published!
 
