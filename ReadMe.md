@@ -1,7 +1,7 @@
 Wellcome to my GitHub
 =====
 
-🙋‍♂️ $\color{orange}\Large\textsf {Hello!}$
+$\color{gold}\Large\textsf {Hello!}$ 🙋‍♂️ 
 
 My name is Maj, I am Information Security Engineer.
 
