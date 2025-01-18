@@ -1,4 +1,4 @@
-![2ezgif-5-c8c7e27307orange](https://github.com/user-attachments/assets/267f6cd1-22fe-4371-afd7-543a26b68691)
+![ezgif-5-c8c7e27307](https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031)
 
 My name is Maj, I am Information Security Engineer.
 
