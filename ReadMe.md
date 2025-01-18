@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031">
+  <img alt="Dynamic GIF based on theme" src="https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031">
+</picture>
+
+
+
 ![ezgif-5-c8c7e27307](https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031)
 
 My name is Maj, I am Information Security Engineer.
