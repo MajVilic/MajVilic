@@ -10,7 +10,7 @@ My current status:
 
 I am active in THM:
 
-![My TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046310)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mulc.png" alt="Your Image Badge" />
 
 
 
