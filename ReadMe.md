@@ -1,7 +1,7 @@
-Profile
+Wellcome to my GitHub
 =====
 
-🙋‍♂️ $\color{blue}\Large\textsf {Hello my name Maj}$
+🙋‍♂️ $\color{orange}\Large\textsf {Hello my name Maj}$
 
 I am Information Security Engineer.
 
