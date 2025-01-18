@@ -10,6 +10,7 @@ My current status:
 
 I am active in THM:
 
-[![My Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046310)](https://majvilic.github.io/myimagepage/)
+![My TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3046310)
+
 
 
