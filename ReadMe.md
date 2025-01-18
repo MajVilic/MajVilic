@@ -4,7 +4,7 @@
   <img alt="Dynamic GIF based on theme" src="https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031">
 </picture>
 
-My name is Maj, I am Information Security Engineer.
+<p style="font-family: 'Fira Code', monospace;"> My name is Maj, I am Information Security Engineer.</p>
 
 You are gonna see a lot of my content (code, notes,...) starting to get published!
 
