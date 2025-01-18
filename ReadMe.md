@@ -1,4 +1,6 @@
-# Hello my name Maj and I am Information Security Engineer.
+# Profile 
+
+<p color="red"> Hello my name Maj and I am Information Security Engineer. <p color="red">
 
 You are gonna see a lot of my content (code, notes,...) starting to get published!
 
