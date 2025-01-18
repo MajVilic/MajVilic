@@ -1,6 +1,9 @@
 # Profile 
 
-<span style="font-size: 14px; color: red;">This is red text with 14px font size.</span>
+SNARE
+=====
+
+⚠️ $\color{red}\Large\textsf {Important}$
 
 <p color="red"> Hello my name Maj and I am Information Security Engineer. <p color="red">
 
