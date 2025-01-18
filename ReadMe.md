@@ -1,9 +1,9 @@
 Wellcome to my GitHub
 =====
 
-🙋‍♂️ $\color{orange}\Large\textsf {Hello my name Maj}$
+🙋‍♂️ $\color{orange}\Large\textsf {Hello!}$
 
-I am Information Security Engineer.
+My name is Maj, I am Information Security Engineer.
 
 You are gonna see a lot of my content (code, notes,...) starting to get published!
 
