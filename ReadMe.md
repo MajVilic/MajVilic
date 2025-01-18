@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/882edc7b-8631-4c2d-aae7-d745549c7e59">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0db7de23-2912-4e9a-88ad-915ec0d28dfc">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/cbe87925-d85f-47cc-9544-33d89d18143f">
   <img alt="Dynamic GIF based on theme" src="https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031">
 </picture>
