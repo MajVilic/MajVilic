@@ -1,7 +1,5 @@
 ![ezgif-5-c8c7e27307](https://github.com/user-attachments/assets/402a57b7-bfda-47e7-9061-a2c2c41183e4)
 
-=====
-
 $\color{darkblue}\Large\textsf {Hello!}$ 🙋‍♂️ 
 
 My name is Maj, I am Information Security Engineer.
