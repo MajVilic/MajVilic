@@ -1,4 +1,4 @@
-![ezgif-5-c8c7e27307](https://github.com/user-attachments/assets/402a57b7-bfda-47e7-9061-a2c2c41183e4)
+![ezgif-5-c8c7e27307](https://github.com/user-attachments/assets/6244d9be-7076-4aa1-be3c-2f38c600f6a1)
 
 $\color{darkblue}\Large\textsf {Hello!}$ 🙋‍♂️ 
 
