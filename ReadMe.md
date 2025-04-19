@@ -16,7 +16,7 @@ My current status:
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mulc.png" alt="Your Image Badge" />
-![image](https://github.com/user-attachments/assets/2a9c3409-6072-48b5-bf1c-5977828719c1)
+<img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="Img Badge" />
 
 
 
