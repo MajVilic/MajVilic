@@ -16,6 +16,7 @@ My current status:
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mulc.png" alt="Your Image Badge" />
+![image](https://github.com/user-attachments/assets/2a9c3409-6072-48b5-bf1c-5977828719c1)
 
 
 
