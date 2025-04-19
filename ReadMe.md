@@ -4,7 +4,7 @@
   <img alt="Dynamic GIF based on theme" src="https://github.com/user-attachments/assets/da73339e-c155-4058-8732-1b6cbfa0a031">
 </picture>
 
-<p style="font-family: 'Fira Code', monospace;"> My name is Maj, I work as a Information Security Engineer.</p>
+<p style="font-family: 'Fira Code', monospace;"> Greatly into Information security and ML.</p>
 
 I am renewing my GitHub so you're gonna see a lot of my content (code, notes,...) starting to get published!
 
