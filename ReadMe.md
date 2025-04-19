@@ -14,8 +14,9 @@ My current status:
 - 🤖 In the future I’m looking to collaborate on my ML webpage, which is currently on hold.
 - 📢 I am active in THM.
 
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/Mulc.png" alt="Your Image Badge" />
+
+- My badge 📛:
 <img src="https://images.credly.com/size/340x340/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" alt="Img Badge" />
 
 
